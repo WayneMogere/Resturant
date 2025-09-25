@@ -6,6 +6,7 @@ const menu = {
         image: "/public/images/menu/fishsoup.jpg",
         price: 500,
         description: 'A delicate broth infused with saffron, garlic, and fresh herbs, simmered with tender fillets of market-fresh fish, mussels, and prawns. Finished with a splash of white wine and served with toasted artisan bread for an elegant, soul-warming dish.',
+        longDescription: "",
         category: 'Starters'
     },
     1:{
